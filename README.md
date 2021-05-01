@@ -7,6 +7,7 @@ C211_Surviving_2020
 Oregan Trail style quiz with a 2020 twist
 
  
+Original (broken): https://github.com/lpkeith/C211_Surviving_2020
 
 Contributions:
 
